@@ -1,0 +1,6 @@
+{
+  "name": "Society Maintenance Tracker",
+  "description": "A comprehensive tracking platform for apartment societies where residents raise complaints with photos, admins manage workflows with priority updates, and everyone stays informed through a notice board and notification system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
