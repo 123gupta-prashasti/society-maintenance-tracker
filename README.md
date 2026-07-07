@@ -158,4 +158,4 @@ interface ComplaintHistory {
   - Returns sent logs for visual inspection.
  
 ###Project link
--society-maintenance-tracker-olive.vercel.app
+-society-https://society-maintenance-tracker-olive.vercel.app/
